@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.pkl
+*.json
+/Data_Analysis
+/Model_Data
+/PowerCred_Files
+*.zip
